@@ -28,18 +28,18 @@ function questionAnswer(question, answer) {
 
 
 var questionAnsArray = [
-{question: "What's the name of the game that is played in the movie goblet of fire : ", answer:"quidditch"}, 
+{question: "What's the name of the game that is played in the movie goblet of fire : \n(a) quidditch \n(b) Wizard's Chess \n(c) Exploding Snap :", answer:"a"}, 
 
-{question:"What pet did harry have : ", answer:"owl"},
+{question:"What pet did harry have :  \n(a) rat \n(b) owl \n(c) hippogriff :", answer:"b"},
 
-{question: "What are the people without magical powers called in harry potter movies : ", 
-answer: "muggles"}, 
+{question: "What are the people without magical powers called in harry potter movies : \n(a) muggles \n(b) humans \n(c) none :", 
+answer: "a"}, 
 
-{question: "Who married harry potter : ",
-answer: "ginny weasley"},
+{question: "Who married harry potter : \n(a) Cho Chang \n(b) hermione granger \n(c) ginny weasley :",
+answer: "c"},
 
-{question: " we do not speak his name - this quote refers to whom  : ",
-answer:"voldemort"} 
+{question: " we do not speak his name - this quote refers to whom  : \n(a) peter pettigrew \n(b) voldemort \n(c) Lucius Malfoy : ",
+answer:"b"} 
 ];
 
 
